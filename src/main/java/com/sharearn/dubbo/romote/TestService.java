@@ -1,4 +1,4 @@
-package com.sharearn.dubbo.remote;
+package com.sharearn.dubbo.romote;
 
 /**
  * Created by deepbay on 2018/5/30.
